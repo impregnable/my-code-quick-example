@@ -1,27 +1,7 @@
-# QuickExampleAng
+# Some stuff to read.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.7.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+So, first of all, I have to tell that this project is *NOT* supposed to be downloaded and then `ng serve` and stuff.
+It's just basic quick example of my current code (Angular + TypeScript), which includes just one Component and one Service.
+I took it from my current project and changed all function's names and even most of content because I do not have any rights to share real code (It's private and so on...).
+So, it's just an overview, that should show how I write code and so forth.
+I believe I've made myself clear.
